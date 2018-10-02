@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sulabhkothari/IdeaProjects/oauth2/app/controllers/AuthenticateController.scala:28:11: object Execution in package concurrent is deprecated (since 2.6.0): Please see https://www.playframework.com/documentation/2.6.x/Migration26#play.api.libs.concurrent.Execution-is-deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0m      .map(x => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
